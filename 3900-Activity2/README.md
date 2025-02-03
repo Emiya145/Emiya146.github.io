@@ -22,4 +22,4 @@ This simple HTML web page showcases Anirudh Somasundaram's profile with a focus 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Emiya145/Emiya146.github.io/tree/main/3900-Activity2>
